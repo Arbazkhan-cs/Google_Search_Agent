@@ -59,12 +59,14 @@ This project is an intelligent assistant built using Streamlit and the Groq lang
     - Click the "Get Answer" button to receive a summarized answer.
 
 ## Project Structure
+<pre>
 Google_Search_Agent/
 │
 ├── .env
 ├── app.py
 ├── requirements.txt
 └── README.md
+</pre>
 - **`.env`**: Contains environment variables, including the Groq API key.
 - **`app.py`**: The main application script that sets up the Streamlit app and integrates the Google search and summarization functionalities.
 - **`requirements.txt`**: Lists the Python dependencies required for the project.
