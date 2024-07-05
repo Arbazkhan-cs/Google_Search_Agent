@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+tqdm
+langchain-groq
+googlesearch-python
+langchain_community
+python-dotenv
